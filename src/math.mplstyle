@@ -1,0 +1,6 @@
+savefig.dpi: 400
+savefig.facecolor: white
+savefig.bbox: tight
+font.family: CMU Serif
+mathtext.fontset: cm
+axes.axisbelow: True
